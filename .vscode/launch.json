@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Buy_sell_Stock",
+            "request": "launch",
+            "mainClass": "Buy_sell_Stock",
+            "projectName": "temp_a3b8f7ac"
+        },
+        {
+            "type": "java",
             "name": "Launch Target_Pair",
             "request": "launch",
             "mainClass": "Target_Pair",

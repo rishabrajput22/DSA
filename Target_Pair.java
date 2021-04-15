@@ -1,5 +1,5 @@
 //Target Pair
-import java.util.*;
+
 public class Target_Pair
 {
 	public static void main(String[] args) {
