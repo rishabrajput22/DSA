@@ -12,3 +12,4 @@ public interface one {
 // user name dalsa h 9XbHSnvtdmBiUA6 bhai kya karu ?
 // kaha dala h?
 // acha chl rha tha  
+// ready? yes
